@@ -136,6 +136,9 @@ python code/01_limits_demo.py
 
 > "Calculus is not about memorizing derivative rules—it is about learning to view the world through continuous change."
 
+
+```
+
 │
 ├── README.md                          # Master index & project vision
 ├── 01-limits-and-continuity.md         # Foundation module
@@ -149,8 +152,9 @@ python code/01_limits_demo.py
 │   └── 02_derivative_sim.py
 └── assets/                            # Generated charts for Markdown display
     └── 01_sin_x_over_x.png
+```
 
-🚀 How to Run the Code
+###🚀 How to Run the Code
 1. Clone the repository:
 
 git clone https://github.com/your-username/mit-1801-applied-calculus.git
